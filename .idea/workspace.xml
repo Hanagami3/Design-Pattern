@@ -4,35 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28a7c913-d1e9-4806-8550-85c82af110da" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design_Patterns.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/hanagami/SolidPrincipels/dependencyInversionPrincipel/DIP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/hanagami/SolidPrincipels/interfaceSegregationprincipel/ISP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/hanagami/SolidPrincipels/liskovSubstitutionPrincipel/LSP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/hanagami/SolidPrincipels/openClosePrincipel/Ocp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/hanagami/SolidPrincipels/singleResponsabilityPrincipel/Journal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/hanagami/builder/BuilderInheritanceWithRecursiveGenerics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/hanagami/builder/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/hanagami/builder/Exercice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/hanagami/builder/FacetedBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/hanagami/factories/AbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/hanagami/factories/FactoryMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/hanagami/prototype/CopyConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/hanagami/prototype/Serialization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/hanagami/prototype/klone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/hanagami/sigleton/Basic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/hanagami/sigleton/InnerStaticSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/hanagami/sigleton/LazinessAndThreatSafety.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/hanagami/sigleton/StaticBlocSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/activemesa/creational/factories/ok.java" afterDir="false" />
+    <list default="true" id="28a7c913-d1e9-4806-8550-85c82af110da" name="Changes" comment="03/02/24">
+      <change afterPath="$PROJECT_DIR$/myfile.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/hanagami/prototype/ExoPrototype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/hanagami/sigleton/EnumBasedSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/hanagami/sigleton/Monostate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/activemesa/creational/factories/ok.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Example/com/activemesa/creational/factories/ok.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,13 +34,16 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2bNOXHxl8TiZlopvPevjawkhEk3" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -77,10 +58,11 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.41609195",
+    "settings.editor.selected.configurable": "inlay.hints",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BasicSingletonDemo">
+  <component name="RunManager" selected="Application.DemoMonostate">
     <configuration name="BasicSingletonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="be.hanagami.sigleton.BasicSingletonDemo" />
       <module name="Design_Patterns" />
@@ -120,6 +102,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DemoMonostate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.hanagami.sigleton.DemoMonostate" />
+      <module name="Design_Patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.hanagami.sigleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SerializationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="be.hanagami.prototype.SerializationDemo" />
       <module name="Design_Patterns" />
@@ -133,26 +128,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="be.hanagami.prototype.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="be.hanagami.prototype.Demo" />
-      <module name="Design_Patterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="be.hanagami.prototype.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BasicSingletonDemo" />
+        <item itemvalue="Application.DemoMonostate" />
         <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.BasicSingletonDemo" />
         <item itemvalue="Application.SerializationDemo" />
         <item itemvalue="Application.CopyConstructorDemo" />
-        <item itemvalue="Application.be.hanagami.prototype.Demo" />
       </list>
     </recent_temporary>
   </component>
@@ -173,12 +155,27 @@
       <workItem from="1706888998252" duration="3555000" />
       <workItem from="1706893699802" duration="65000" />
       <workItem from="1706893775036" duration="538000" />
-      <workItem from="1706972487547" duration="3136000" />
+      <workItem from="1706972487547" duration="3338000" />
+      <workItem from="1706987019891" duration="2841000" />
     </task>
+    <task id="LOCAL-00001" summary="03/02/24">
+      <option name="closed" value="true" />
+      <created>1706975825255</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706975825255</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="03/02/24" />
+    <option name="LAST_COMMIT_MESSAGE" value="03/02/24" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
