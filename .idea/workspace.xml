@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="28a7c913-d1e9-4806-8550-85c82af110da" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design_Patterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/single.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/hanagami/SolidPrincipels/dependencyInversionPrincipel/DIP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/hanagami/SolidPrincipels/interfaceSegregationprincipel/ISP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/hanagami/SolidPrincipels/liskovSubstitutionPrincipel/LSP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/hanagami/SolidPrincipels/openClosePrincipel/Ocp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/hanagami/SolidPrincipels/singleResponsabilityPrincipel/Journal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/hanagami/builder/BuilderInheritanceWithRecursiveGenerics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/hanagami/builder/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/hanagami/builder/Exercice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/hanagami/builder/FacetedBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/hanagami/factories/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/hanagami/factories/FactoryMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/hanagami/prototype/CopyConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/hanagami/prototype/Serialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/hanagami/prototype/klone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/hanagami/sigleton/Basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/hanagami/sigleton/InnerStaticSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/hanagami/sigleton/LazinessAndThreatSafety.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/hanagami/sigleton/StaticBlocSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/activemesa/creational/factories/ok.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2bNOXHxl8TiZlopvPevjawkhEk3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Etudiant/Java/Libraries/commons-lang3-3.14.0.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.41609195",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.BasicSingletonDemo">
+    <configuration name="BasicSingletonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.hanagami.sigleton.BasicSingletonDemo" />
+      <module name="Design_Patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.hanagami.sigleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CopyConstructorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.hanagami.prototype.CopyConstructorDemo" />
+      <module name="Design_Patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.hanagami.prototype.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.hanagami.sigleton.Demo" />
+      <module name="Design_Patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.hanagami.sigleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SerializationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.hanagami.prototype.SerializationDemo" />
+      <module name="Design_Patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.hanagami.prototype.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="be.hanagami.prototype.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.hanagami.prototype.Demo" />
+      <module name="Design_Patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.hanagami.prototype.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BasicSingletonDemo" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.SerializationDemo" />
+        <item itemvalue="Application.CopyConstructorDemo" />
+        <item itemvalue="Application.be.hanagami.prototype.Demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28a7c913-d1e9-4806-8550-85c82af110da" name="Changes" comment="" />
+      <created>1706052109991</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706052109991</updated>
+      <workItem from="1706052110981" duration="4944000" />
+      <workItem from="1706136335512" duration="5333000" />
+      <workItem from="1706213703275" duration="728000" />
+      <workItem from="1706214681530" duration="5848000" />
+      <workItem from="1706256835182" duration="11413000" />
+      <workItem from="1706443756309" duration="208000" />
+      <workItem from="1706888998252" duration="3555000" />
+      <workItem from="1706893699802" duration="65000" />
+      <workItem from="1706893775036" duration="538000" />
+      <workItem from="1706972487547" duration="3136000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/be/hanagami/builder/Demo.java</url>
+          <line>77</line>
+          <properties class="be.hanagami.builder.Demo" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
